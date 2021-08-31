@@ -13,7 +13,7 @@ for i in list:
         for x in i:
             if x in 'aeoy':
                 c=c+1
-            else:
+            e
                 d=d+1
 print(sum)
 print(list)
